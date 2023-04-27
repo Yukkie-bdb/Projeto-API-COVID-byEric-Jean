@@ -510,10 +510,6 @@ th {
 
 }
 
-#pessoa1 img {
-    margin-left: 10px;
-}
-
 #pessoa1 a {
     text-decoration: none;
     color: black;
@@ -530,11 +526,6 @@ th {
 
 }
 
-#pessoa2 img{
-    margin-left: 10px;
-    margin-top: 10px;
-    margin-right: 10px;
-}
 
 #pessoa2 a {
     text-decoration: none;
@@ -655,6 +646,8 @@ th {
 
     #equipes img {
         margin: 0 10px;
+        width: 350px;
+        height: 350px;
     }
 
     #boxnotopo {
@@ -741,6 +734,17 @@ th {
     #caixaPizza {
         margin: 0 auto;
     }
+
+    #pessoa1 {
+        margin-right: 0px;
+
+    }
+    
+    #pessoa2 {
+        margin-left: 0px;
+
+    }
+    
 }
 
 
