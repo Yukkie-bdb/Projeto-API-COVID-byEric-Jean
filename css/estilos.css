@@ -848,5 +848,35 @@ th {
     tr {
         font-size: 25px;
     }
+
+    #equipes {
+        flex-direction: column;
+    }
+
+    .bordaesquerda {
+        border-top: 4px solid green;
+        border-right: 4px solid green;
+        border-bottom: 0;
+        border-left: 0;
+    }
+
+    .bordadireita {
+        border-bottom: 4px solid green;
+        border-left: 4px solid green;
+        border-top: 0;
+        border-right: 0;
+    }
+
+    #pessoa1 {
+        padding-top: 15px;
+        margin-left: 50px;
+
+    }
+    
+    #pessoa2 {
+        margin-right: 50px;
+
+    }
+    
 }
 
